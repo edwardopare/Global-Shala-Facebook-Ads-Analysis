@@ -19,3 +19,4 @@ This project analyzes Facebook ad performance for Global Shala using Power BI to
 
 
 # 🚀 Explore the Power BI dashboard for a deep dive into the analysis!
+https://3lrvmq-my.sharepoint.com/:u:/g/personal/thiago_jasbasoft_com/EUKWTbB3175KkUTqMEIf6_YB_hxTmU5Oq2kFXH5myQF86A?e=fbxYgd
